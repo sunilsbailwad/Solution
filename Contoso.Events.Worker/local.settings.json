@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sunilstoragedemo;AccountKey=cjC8L7v5ARyid/o4xdaffAMq4KX5mdJodxciu/lubO8rmCQyozGZOSj5oxy2vA5gH9pPfsdPX6FUUihtM/Ferw==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=sunilstoragedemo;AccountKey=cjC8L7v5ARyid/o4xdaffAMq4KX5mdJodxciu/lubO8rmCQyozGZOSj5oxy2vA5gH9pPfsdPX6FUUihtM/Ferw==;EndpointSuffix=core.windows.net",
+    "EventsContextConnectionString": "Server=tcp:demoservernamesunil.database.windows.net,1433\\mssqllocaldb;Database=Contoso.Events.Mod07;Persist Security Info=False;User ID=developer;Password=Password@123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "CosmosEndpointUrl": "https://nosql20532sunil.documents.azure.com:443/",
+    "CosmosAuthorizationKey": "rrbYVqzTgmQTFYf4ShDsqFRAEU48V4XLsL3SDqQP6RNLOZg1BtxN6vhTNW1uokN0hFfKHN6C43wZCMq15lYhEg==",
+    "CosmosDatabaseId": "EventsDatabase.Mod07",
+    "CosmosCollectionId": "RegistrationCollection"
+  }
+}
